@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lisa-memorial/static/css/main.0f143d89.css",
+    "main.js": "/lisa-memorial/static/js/main.78a5f2d9.js",
+    "static/js/488.e4dc0df0.chunk.js": "/lisa-memorial/static/js/488.e4dc0df0.chunk.js",
+    "index.html": "/lisa-memorial/index.html",
+    "main.0f143d89.css.map": "/lisa-memorial/static/css/main.0f143d89.css.map",
+    "main.78a5f2d9.js.map": "/lisa-memorial/static/js/main.78a5f2d9.js.map",
+    "488.e4dc0df0.chunk.js.map": "/lisa-memorial/static/js/488.e4dc0df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f143d89.css",
+    "static/js/main.78a5f2d9.js"
+  ]
+}
